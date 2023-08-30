@@ -7,58 +7,53 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Leetcod_Study_Plan-SQL_50.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Leetcod_Study_Plan-SQL_50?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Leetcod_Study_Plan-SQL_50?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>SQL 50(Leetcode Study Plan)
 
 ## About This Course/Certificate
 
 About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+**Course Link:** [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 ## Course Learn Path
 
 The courses enlisted as follows:
 
-- [x] **C1-**
-- [x] **C2-**
-- [ ] **C3-**
+- [x] **50 Common Questions**
 
 ## Course Description: 1 Course
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br/>
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+Summary
+Basic to intermediate SQL topics
+50 essential SQL questions
+Best for 1 month of prep time
 
 ## Applied Learning Project
 
-**Tools:** Jupyter / JupyterLab, GitHub,
+**Tools:** GitHub, SQL
 
-**Libraries:** Pandas, NumPy
+<!-- **Libraries:** Pandas, NumPy -->
 
-**Projects:** ABC Project Name
+**Projects:** SQL 50
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Link](https://leetcode.com/studyplan/top-sql-50/)
 
-## Course Certificate
+<!-- ## Course Certificate
 
-Total Hours: ~13 Hrs
+Total Hours: ~13 Hrs -->
 
 <div align="center">
 
